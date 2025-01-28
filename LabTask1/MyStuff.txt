@@ -1,0 +1,4 @@
+uid=1000(everett) gid=1000(everett) groups=1000(everett),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),122(lpadmin),135(lxd),136(sambashare)
+/bin/zsh
+/home/everett
+/home/everett/.juliaup/bin:/home/everett/.juliaup/bin:/home/everett/anaconda3/bin:/home/everett/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/everett/.spicetify:/home/everett/.local/bin:/home/everett/anaconda3/bin:/home/everett/.spicetify:/home/everett/.local/bin:/home/everett/anaconda3/bin
