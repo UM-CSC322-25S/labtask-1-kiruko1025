@@ -1,1 +1,3 @@
-346925  336987  333077
+Parent process of my program is the shell zsh
+parent process of the shell is the gnome terminal 
+parent process of terminal is the systemd
